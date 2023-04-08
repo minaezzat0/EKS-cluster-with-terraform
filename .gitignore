@@ -1,0 +1,14 @@
+EKS-Terraform/**/.terraform/*
+EKS-Terraform/*.tfstate
+EKS-Terraform/*.tfstate.*
+EKS-Terraform/crash.log
+EKS-Terraform/crash.*.log
+EKS-Terraform/*.tfvars
+EKS-Terraform/*.tfvars.json
+EKS-Terraform/override.tf
+EKS-Terraform/override.tf.json
+EKS-Terraform/*_override.tf
+EKS-Terraform/*_override.tf.json
+EKS-Terraform/.terraformrc
+EKS-Terraform/terraform.rc
+EKS-Terraform/*.pem
